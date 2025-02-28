@@ -40,7 +40,8 @@ Now, you're all set! 🚀
 - Text alignment & background color
 - Number formatting
 
-📸 *[Insert an Image of the Grid Interface]*
+📸 ![Alt text](https://github.com/aditya-devm02/sheetc/blob/main/assets/Screenshot%202025-02-28%20at%2011.18.39%E2%80%AFPM.png)
+
 
 ---
 
@@ -56,7 +57,7 @@ Now, you're all set! 🚀
 - `=PRODUCT(A1:A5)` ➝ Multiplies values
 - `=MODE(A1:A5)`, `=RANGE(A1:A5)` ➝ Finds mode & range
 
-📸 *[Insert Image of Formula Usage in Action]*
+📸 ![Alt text](https://github.com/aditya-devm02/sheetc/blob/main/assets/Screenshot%202025-02-28%20at%2011.19.16%E2%80%AFPM.png)
 
 ---
 
@@ -68,7 +69,8 @@ Keep your data clean and efficient! 🧹
 - `=REMOVE_DUPLICATES(A1:A10)` ➝ Removes duplicates
 - `=FIND_AND_REPLACE(A1, "old", "new")` ➝ Text replacement
 
-📸 *[Insert Screenshot Showing Data Cleaning in Action]*
+📸 ![Alt text](https://github.com/aditya-devm02/sheetc/blob/main/assets/Screenshot%202025-02-28%20at%2011.24.56%E2%80%AFPM.png)
+
 
 ---
 
@@ -80,7 +82,7 @@ Bring your data to life with charts! 📈
 - `=LINECHART(A1:A10)` ➝ Line chart
 - `=AREACHART(A1:A10)` ➝ Area chart
 
-📸 *[Insert Image of a Chart in the Spreadsheet]*
+
 
 ---
 
@@ -92,7 +94,7 @@ Bring your data to life with charts! 📈
   - `recharts` ➝ Data visualization
   - `react-icons` ➝ Web App icons
 
-📸 *[Insert Tech Stack Image]*
+
 
 ---
 
@@ -113,7 +115,7 @@ Bring your data to life with charts! 📈
 - **ChartComponent.jsx** ➝ Renders visualizations
 - **ResizeHandle.jsx** ➝ Controls column & row resizing
 
-📸 *[Insert Flowchart of Architecture]*
+
 
 ---
 
@@ -133,7 +135,7 @@ Bring your data to life with charts! 📈
 🔹 **Creating Charts:**
 - Type `=BARCHART(A1:A5)` and see the magic! ✨
 
-📸 *[Insert GIF Showing These Features]*
+
 
 ---
 
@@ -151,7 +153,7 @@ Bring your data to life with charts! 📈
 - Currently operates **in-memory**
 - Implement **your own persistence layer** if needed
 
-📸 *[Insert Image Highlighting Grid Performance]*
+
 
 ---
 
@@ -163,7 +165,7 @@ Bring your data to life with charts! 📈
 ✅ Regularly **check for formula errors**
 ✅ Use **data quality functions** to clean messy data
 
-📸 *[Insert a Tip Section Graphic]*
+
 
 ---
 
@@ -173,7 +175,7 @@ Bring your data to life with charts! 📈
 ✔️ Support for **complex formulas & cell dependencies**  
 ✔️ Integrated **data visualization capabilities**  
 
-📸 *[Insert Final Overview Image]*
+
 
 ---
 
@@ -181,7 +183,7 @@ Bring your data to life with charts! 📈
 
 Want to enhance the spreadsheet? Fork the repo, implement your feature, and submit a pull request! 🚀
 
-📸 *[Insert GitHub Contribution Graphic]*
+
 
 ---
 
